@@ -23,6 +23,8 @@ public class MathUtilLive {
     
         System.out.println("expected: 6! = 720; actual: " + MathUtil.getFactorial(6));
         System.out.println("expected: 0! = 1;   actual: " + MathUtil.getFactorial(0));
+        //Them code sau lan dau tien lam chuyen ay - code len server 18:07 2/2/2024
+        System.out.println("expected: 3! = 6;   actual: " + MathUtil.getFactorial(3));
     }
     
 }
